@@ -15,6 +15,6 @@ Com o ambiente devidamente configurado.
 [Extensão Live Server - Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)<br>
 [Guia Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
 [Projeto inspiração](https://plantpot.works/2939)<br>
-[Banco de imagens](https://unsplash.com/)
+[Banco de imagens](https://unsplash.com/) <br>
 [Banco de ícones](https://www.flaticon.com/)
   
