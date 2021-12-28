@@ -9,3 +9,12 @@
 
 <p>1. Abra o terminal e navegue até sua pasta de destino (onde deseja salvar o projeto).</p>
 <p>2. Execute o comando `git clone https://github.com/EduardaMatias/LandingPage.git`.<p>
+  
+<h2>Links úteis<h2>
+[Instalação do Visual Studio Code](https://code.visualstudio.com/Download)<br>
+[Extensão Live Server - Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)<br>
+[Guia Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+[Projeto inspiração](https://plantpot.works/2939)<br>
+[Banco de imagens](https://unsplash.com/)
+[Banco de ícones](https://www.flaticon.com/)
+  
